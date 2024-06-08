@@ -1,5 +1,8 @@
-## run
-1-create public/uploads Folders
-2- npm init
-3- npm install
-4- npm start
+# for run this app
+create public/uploads Folders
+
+npm init
+
+npm install
+
+npm start
